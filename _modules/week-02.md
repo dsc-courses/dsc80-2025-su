@@ -15,7 +15,7 @@ days:
   - name: LAB 1
     type: lab
     title: Python, NumPy, and Pandas
-    # url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab01
+    url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/labs/lab01
     reading: ''
 - date: '2025-04-10'
   events:
@@ -23,7 +23,7 @@ days:
     type: lecture
     title: Simpson's Paradox, Joining, Transforming
     # blank: resources/lectures/lec04/lec04-live.html
-    # filled: resources/lectures/lec04/lec04.html
+    filled: resources/lectures/lec04/lec04.html
     reading: '[Ch. 6.3-6.5](https://learningds.org/ch/06/pandas_joining.html)'
 - date: '2025-04-11'
   events:
