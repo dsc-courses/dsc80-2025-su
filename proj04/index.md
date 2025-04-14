@@ -30,8 +30,8 @@ Final Project worth 10% in your overall grade, which means it's worth double wha
 As your final deliverables, you'll submit two things to us: a **public-facing website** as well as a **PDF of your Jupyter Notebook**. We encourage you to build something you are proud of as this will give you something concrete to put on your resume and show to potential employers!
 
 {: .green }
-> **Final Project is due on Friday, March 14th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. <br><br>
-> The Final Project does also have two checkpoints, which is due on **Friday, February 28th** and **Friday, March 7th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#submission-and-rubric) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/941090/assignments/5820453/) and [checkpoint 2](https://www.gradescope.com/courses/941090/assignments/5820459/) on Gradescope; make sure to tag your partner if you have one.
+> **Final Project is due on Friday, June 6th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. <br><br>
+> The Final Project does also have two checkpoints, which is due on **Friday, May 23rd** and **Friday, May 30th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#submission-and-rubric) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/941090/assignments/5820453/) and [checkpoint 2](https://www.gradescope.com/courses/941090/assignments/5820459/) on Gradescope; make sure to tag your partner if you have one.
 
 The project is broken into two parts:
 
@@ -275,7 +275,7 @@ As mentioned at the top of this page, this project has **two checkpoints**, each
 
 ### Checkpoint 1 Submission
 
-The first checkpoint is due on **Friday, February 28th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/941090/assignments/5820453) on Gradescope.
+The first checkpoint is due on **Friday, May 23rd**. You can submit the checkpoint [here](https://www.gradescope.com/courses/941090/assignments/5820453) on Gradescope.
 
 The checkpoint 1 assignment is worth 20 points, and asks you to answer the following questions:
 
@@ -286,7 +286,7 @@ The checkpoint 1 assignment is worth 20 points, and asks you to answer the follo
 
 ### Checkpoint 2 Submission
 
-The second one is due on **Friday, March 7th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/941090/assignments/5820459) on Gradescope.
+The second one is due on **Friday, May 30th**. You can submit the checkpoint [here](https://www.gradescope.com/courses/941090/assignments/5820459) on Gradescope.
 
 The checkpoint 2 assignment is worth 20 points, and asks you to answer the following questions:
 
