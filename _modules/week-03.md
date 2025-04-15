@@ -8,7 +8,7 @@ days:
     type: lecture
     title: Exploring and Cleaning Data
     # blank: resources/lectures/lec05/lec05-live.html
-    # filled: resources/lectures/lec05/lec05.html
+    filled: resources/lectures/lec05/lec05.html
     reading: '[Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)'
 - date: '2025-04-16'
   events:
@@ -23,7 +23,7 @@ days:
     type: lecture
     title: Hypothesis and Permutation Testing
     # blank: resources/lectures/lec06/lec06-live.html
-    # filled: resources/lectures/lec06/lec06.html
+    filled: resources/lectures/lec06/lec06.html
     reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
 - date: '2025-04-18'
   events:
