@@ -7,13 +7,13 @@ days:
   - name: LEC 7
     type: lecture
     title: Missingness Mechanisms
-    # filled: resources/lectures/lec07/lec07.html
+    filled: resources/lectures/lec07/lec07.html
     reading: '[A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)'
 - date: '2025-04-23'
   events:
   - name: LAB 3
     type: lab
-    # url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab03
+    url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/labs/lab03
     title: DataFrame Manipulation
     reading: ''
 - date: '2025-04-24'
