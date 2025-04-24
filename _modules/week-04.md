@@ -21,13 +21,13 @@ days:
   - name: LEC 8
     type: lecture
     title: Imputation
-    # filled: resources/lectures/lec08/lec08.html
+    filled: resources/lectures/lec08/lec08.html
     reading: '[DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)'
 - date: '2025-04-25'
   events:
   - name: PROJ 2
     type: proj
     title: Project 2 checkpoint
-    # url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/projects/project02
+    url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/projects/project02
     reading: ''
 ---
