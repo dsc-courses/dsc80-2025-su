@@ -18,9 +18,9 @@ days:
     reading: ''
 - date: '2025-05-15'
   events:
-  - name: LEC 13
+  - name: Guest Lecture
     type: lecture
-    title: Linear Regression
+    title: Industry Talk
     # filled: resources/lectures/lec13/lec13.html
     reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
 - date: '2025-05-16'
