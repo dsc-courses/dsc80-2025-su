@@ -7,7 +7,7 @@ days:
   - name: LEC 13
     type: lecture
     title: Feature Engineering
-    filled: ÷resources/lectures/lec13/lec13.html
+    filled: resources/lectures/lec13/lec13.html
     reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
 - date: '2025-05-21'
   events:
