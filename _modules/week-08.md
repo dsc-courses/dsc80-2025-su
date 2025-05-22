@@ -21,7 +21,7 @@ days:
     type: lecture
     title: Feature Engineering
     filled: resources/lectures/lec14/lec14.html
-    reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)
+    reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)'
 - date: '2025-05-23'
   events:
   - name: FINAL PROJ
