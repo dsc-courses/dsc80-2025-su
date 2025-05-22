@@ -19,10 +19,9 @@ days:
   events:
   - name: LEC 14
     type: lecture
-    title: Feature Engineering #Standardization, Multicollinearity, and Generalization
+    title: Feature Engineering
     filled: resources/lectures/lec14/lec14.html
     reading: '[Ch. 15.7-15.9](https://learningds.org/ch/15/linear_feature_eng.html)
-    # reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
 - date: '2025-05-23'
   events:
   - name: FINAL PROJ
