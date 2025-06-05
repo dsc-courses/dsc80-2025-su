@@ -251,9 +251,9 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: TBD (during lecture)
+- **Midterm Exam**: Week 6 Tuesday (during lecture)
 
-- **Final Exam:** June 10, 2025. Location is TBD
+- **Final Exam:** June 10, 2025, 8-11AM,  CENTR 113.
 
 Both exams will be administered in-person. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form](https://forms.gle/UiGJ2aDsGViVbYPB9).
 

@@ -6,6 +6,6 @@ days:
   events:
   - name: EXAM
     type: exam
-    title: Final Exam
+    title: Final Exam 8:00-10:59AM at CENTR 113
     reading: ''
 ---
