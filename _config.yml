@@ -16,7 +16,7 @@
 title: DSC 80
 description: DSC 80, Summer 2025 at UC San Diego
 tagline: Practice and Application of Data Science
-baseurl: '/' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://dsc80.com' # the base hostname & protocol for your site, e.g. http://example.com
 author: DSC 80 course staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
