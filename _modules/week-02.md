@@ -1,5 +1,5 @@
 ---
-title: "Week 2 \u2013 Dataframes"
+title: "Week 1.2 \u2013 Dataframes"
 weekNumber: 2
 days:
 - date: '2025-04-08'
