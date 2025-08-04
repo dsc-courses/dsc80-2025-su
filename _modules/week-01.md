@@ -2,7 +2,7 @@
 title: "Week 1.1 \u2013 Dataframes"
 weekNumber: 1
 days:
-- date: '2025-04-01'
+- date: '2025-08-04'
   events:
   - name: LEC 1
     type: lecture
@@ -10,7 +10,7 @@ days:
     blank: resources/lectures/lec01/lec01-live.html
     # filled: resources/lectures/lec01/lec01.html
     reading: '[Ch. 1](https://learningds.org/ch/01/lifecycle_intro.html)'
-- date: '2025-04-03'
+- date: '2025-08-04'
   events:
   - name: LEC 2
     type: lecture
