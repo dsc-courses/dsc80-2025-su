@@ -30,6 +30,6 @@ days:
   - name: PROJ 1
     type: proj
     title: Project 1 checkpoint
-    # url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/projects/project01
+    url: https://github.com/dsc-courses/dsc80-2025-su/tree/main/projects/proj01
     reading: ''
 ---
