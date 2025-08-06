@@ -19,11 +19,11 @@ nav_order: 2
 
 <!-- prettier-ignore-end -->
 
-[piazza]: https://piazza.com/class/m8qkpqxd1s316c
+[piazza]: https://piazza.com/ucsd/summer2025/dsc80
 [gradescope]: https://www.gradescope.com/courses/1011519
-[github]: https://github.com/dsc-courses/dsc80-2025-sp
-[welcome-survey]: https://forms.gle/HW8AB9xtWzsWuuDf7
-[extension-request-form]: https://forms.gle/9KSR8cVXjxHuEs2z6
+[github]: https://github.com/dsc-courses/dsc80-2025-su
+[welcome-survey]: https://docs.google.com/forms/d/e/1FAIpQLSdSi6UdyjUcaQ_-iA2M39w8gwftuYgedtDHC1ViIZZ1M9y4Mw/viewform?usp=sf_link
+[extension-request-form]: https://docs.google.com/forms/d/e/1FAIpQLSd1F7vvNy00Yvk-bKnt-ZdRsObkI8grQ6rw-AAeAryeX2p3AA/viewform?usp=sf_link
 
 ## About 🧐
 
@@ -251,11 +251,11 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Final Exam:** June 10, 2025, 8-11AM,  CENTR 113.
+- **Final Exam:** September 6, 2025, 11:30AM - 2:30AM,  WLH 2111
 
-- **Midterm Exam**: Week 6 Tuesday (during lecture)
+- **Midterm Exam**: Wed, Aug 20 2025 (during lecture) WLH 2111
 
-Both exams will be administered in-person. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form](https://forms.gle/UiGJ2aDsGViVbYPB9).
+Both exams will be administered in-person and online. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form](https://forms.gle/UiGJ2aDsGViVbYPB9).
 
 ### Redemption Policy
 
