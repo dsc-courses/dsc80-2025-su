@@ -14,11 +14,11 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 [syllabus]: syllabus
-[piazza]: https://piazza.com/class/m8qkpqxd1s316c
+[piazza]: https://piazza.com/ucsd/summer2025/dsc80
 [gradescope]: https://www.gradescope.com/courses/1011519
-[github]: https://github.com/dsc-courses/dsc80-2025-sp
-[welcome-survey]: https://forms.gle/HW8AB9xtWzsWuuDf7
-[extension-request-form]: https://forms.gle/9KSR8cVXjxHuEs2z6
+[github]: https://github.com/dsc-courses/dsc80-2025-su
+[welcome-survey]: https://docs.google.com/forms/d/e/1FAIpQLSdSi6UdyjUcaQ_-iA2M39w8gwftuYgedtDHC1ViIZZ1M9y4Mw/viewform?usp=sf_link
+[extension-request-form]: https://docs.google.com/forms/d/e/1FAIpQLSd1F7vvNy00Yvk-bKnt-ZdRsObkI8grQ6rw-AAeAryeX2p3AA/viewform?usp=sf_link
 [exam-accommodations]: https://forms.gle/dxKvV9pXPeMU817p8
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 
