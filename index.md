@@ -19,7 +19,7 @@ nav_order: 1
 [github]: https://github.com/dsc-courses/dsc80-2025-su
 [welcome-survey]: https://docs.google.com/forms/d/e/1FAIpQLSdSi6UdyjUcaQ_-iA2M39w8gwftuYgedtDHC1ViIZZ1M9y4Mw/viewform?usp=sf_link
 [extension-request-form]: https://docs.google.com/forms/d/e/1FAIpQLSd1F7vvNy00Yvk-bKnt-ZdRsObkI8grQ6rw-AAeAryeX2p3AA/viewform?usp=sf_link
-[exam-accommodations]: https://forms.gle/dxKvV9pXPeMU817p8
+[exam-accommodations]: https://docs.google.com/forms/d/e/1FAIpQLSd7Im23x9HcF9ok-rm1Bq8kI0WPl9735sgFeSgZJAji4gdrTQ/viewform?usp=sf_link
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 
 [Podcasts](https://podcast.ucsd.edu/){: .btn }
