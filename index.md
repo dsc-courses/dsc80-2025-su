@@ -15,7 +15,7 @@ nav_order: 1
 
 [syllabus]: syllabus
 [piazza]: https://piazza.com/ucsd/summer2025/dsc80
-[gradescope]: https://www.gradescope.com/courses/1011519
+[gradescope]: https://www.gradescope.com/courses/1076838
 [github]: https://github.com/dsc-courses/dsc80-2025-su
 [welcome-survey]: https://docs.google.com/forms/d/e/1FAIpQLSdSi6UdyjUcaQ_-iA2M39w8gwftuYgedtDHC1ViIZZ1M9y4Mw/viewform?usp=sf_link
 [extension-request-form]: https://docs.google.com/forms/d/e/1FAIpQLSd1F7vvNy00Yvk-bKnt-ZdRsObkI8grQ6rw-AAeAryeX2p3AA/viewform?usp=sf_link
