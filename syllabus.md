@@ -112,8 +112,8 @@ post instead.**
 
 ### Lectures
 
-Lectures will be held in-person on Tuesdays and Thursdays from 9:30-10:50AM in <a href="https://map.concept3d.com/?id=1005#!ct/18312?s/CENTR_Main">CENTR</a> 113.
-Lectures will be podcasted.
+Lectures will be held in-person on Mondays and Wednesdays from 11:00AM-1:50PM in <a href="https://map.concept3d.com/?id=1005#!ct/18312?m/246292?s/Warren%20Lecture%20Hall">WLH</a> 2111.
+Lectures will be recorded.
 
 **New**{: .label .label-green } In the Welcome Survey at the start of the
 quarter, you will have the option of opting into lecture attendance or opting
@@ -158,7 +158,8 @@ and final exam grade will each be worth 2.5% more. -->
 receive credit for discussion for a particular week if you attend the discussion
 in person and complete the worksheet. Attending at least 8 discussions during
 the 10-week quarter will earn full credit for discussion. -->
-In each discussion, the TA will prepare a worksheet of exam questions. You are encouraged to attend the discussion sections, but it is not required.
+<!-- In each discussion, the TA will prepare a worksheet of exam questions. You are encouraged to attend the discussion sections, but it is not required. -->
+TBD 
 
 ### Labs
 
@@ -241,8 +242,8 @@ schedule (which is subject to change in any given week):
 
 | Monday | Tuesday                                           | Wednesday | Thursday | Friday                                        |
 | ------ | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
-|        | Lecture                                           |           | Lecture  |                                               |
-|        | |  <span style='color:red'><b>Lab due</b></span>         |          | <span style='color:red'><b>Project due</b></span>  |
+| Lecture       |                                        | Lecture          |   |                                               |
+|        | |  <span style='color:red'><b>Project due</b></span>        |          | <span style='color:red'><b>Lab due</b></span>  |
 
 ---
 
@@ -251,9 +252,9 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Final Exam:** September 6, 2025, 11:30AM - 2:30AM,  WLH 2111
+<!-- - **Final Exam:** September 6, 2025, 11:30AM - 2:30AM,  WLH 2111
 
-- **Midterm Exam**: Wed, Aug 20 2025 (during lecture) WLH 2111
+- **Midterm Exam**: Wed, Aug 20 2025 (during lecture) WLH 2111 -->
 
 Both exams will be administered in-person and online. If you have conflicts with either of the exams, please let us know on the [Exam Accommodations Form](https://forms.gle/UiGJ2aDsGViVbYPB9).
 
