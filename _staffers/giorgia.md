@@ -5,5 +5,6 @@ pronouns: She/her
 email: gniclaou@ucsd.edu
 photo: assets/staff-images/giorgia.jpg
 description: 3rd year, Ph.D., Data Science
-
+hometown: San Diego, California
+askabout: getting a phd, yoga, san diego recommendations
 ---
