@@ -5,6 +5,6 @@ pronouns: He/him
 email: docai@ucsd.edu
 photo: assets/staff-images/dongting.jpeg
 description: 2nd year, M.S., Data Science
-hometown: San Diego, California
-askabout: 
+hometown: Anqing, Anhui, China
+askabout: Travel Destination & Tips ✈️, Skiing 🎿, Foods 🍚, and anything related to our course materials 📖!
 ---
