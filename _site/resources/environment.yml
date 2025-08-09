@@ -2,7 +2,7 @@ name: dsc80
 channels:
   - conda-forge
 dependencies:
-  - python=3.12
+  - python=3.13
   - pip=24.2
   - beautifulsoup4=4.12.3
   - docopt=0.6.2
