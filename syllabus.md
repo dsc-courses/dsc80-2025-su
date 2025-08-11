@@ -243,7 +243,7 @@ schedule (which is subject to change in any given week):
 | Monday | Tuesday                                           | Wednesday | Thursday | Friday                                        |
 | ------ | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
 | Lecture       |                                        | Lecture          |   |                                               |
-|        | |  <span style='color:red'><b>Project due</b></span>        |          | <span style='color:red'><b>Lab due</b></span>  |
+|        |<span style='color:red'><b>Lab due</b></span> |          |  <span style='color:red'><b>Lab due</b></span>        |  <span style='color:red'><b>Project due</b></span> |
 
 ---
 
@@ -283,10 +283,10 @@ Here is how we'll compute your grade:
 | Component           | Weight | Notes                                                                      |
 | ------------------- | ------ | -------------------------------------------------------------------------- |
 | Labs                | 20%    | 2.5% per lab, lowest dropped                                               |
-| Projects            | 25%    | 5% each for Projects 1-3, 10% for Project 4                                |
-| Project Checkpoints | 5%     | 1% each                                                                    |
-| Midterm Exam        | 20%    | see the Redemption Policy above                                            |
-| Final Exam          | 30%    |                                                                            |
+| Projects            | 25%    | 8.3% each for Projects 1-3                                                   |
+|                     |                                                                                     |
+| Midterm Exam        | 20%    | see the Redemption Policy above   Week 3.1                                 |
+| Final Exam          | 30%    | Friday September 5th 11:30 - 2:30                                          |
 | Lecture Attendance  | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
 
 ### Late Policy
@@ -300,7 +300,7 @@ to submit early and often.
 that there are circumstances and emergencies that cannot be resolved
 immediately. To account for this, you may request an extension for labs and
 projects by filling out the [Extension Request Form][extension-request-form].
-Filling out this form will grant you a 2-day deadline extension for an
+Filling out this form will grant you a 1-day deadline extension for an
 assignment with no grade penalty. (We would like this process to be automatic,
 but for now it requires a staff member to manually update your due date on
 Gradescope.) We are using this policy instead of slip days this quarter to help
