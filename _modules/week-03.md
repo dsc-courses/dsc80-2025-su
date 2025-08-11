@@ -10,6 +10,7 @@ days:
     #blank: resources/lectures/lec05/lec05-live.html
     filled: resources/lectures/lec05/lec05.html
     reading: '[Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)'
+- date: '2025-08-11'
   events:
   - name: LEC 6
     type: lecture

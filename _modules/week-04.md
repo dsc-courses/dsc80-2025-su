@@ -1,6 +1,6 @@
 ---
-title: "Week 3.2 \u2013 Missing Values"
-weekNumber: 3.2
+title: "Week 2.2 \u2013 Missing Values"
+weekNumber: 2.2
 days:
 - date: '2025-08-13'
   events:
