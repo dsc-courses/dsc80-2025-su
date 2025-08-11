@@ -36,8 +36,8 @@ aux_links:
     - 'https://www.gradescope.com/courses/1076838'
   💪 Practice:
     - 'https://practice.dsc80.com/'
-  🤔 Lecture Questions:
-    - 'https://dsc80.com/q'
+  #🤔 Lecture Questions:
+  #  - 'https://dsc80.com/q'
 footer_content:
 
 # Collections for website data
