@@ -30,6 +30,6 @@ days:
   - name: Discussion 2
     type: Discussion
     url: https://smu.zoom.us/j/4215216797
-    title: Deep Look at Hypothesis Testing  2pm PST
+    title: Zoom: Deeper Look at Hypothesis Testing 1:30pm-3:30 PST
     reading: ''
 ---
