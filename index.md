@@ -21,12 +21,15 @@ nav_order: 1
 [extension-request-form]: https://docs.google.com/forms/d/e/1FAIpQLSd1F7vvNy00Yvk-bKnt-ZdRsObkI8grQ6rw-AAeAryeX2p3AA/viewform?usp=sf_link
 [exam-accommodations]: https://docs.google.com/forms/d/e/1FAIpQLSd7Im23x9HcF9ok-rm1Bq8kI0WPl9735sgFeSgZJAji4gdrTQ/viewform?usp=sf_link
 [Lecture-Recordings]:https://docs.google.com/document/d/1k1rF-zdeNSJ9y5eo8YFTfJ8muiFdOfXY7v0_9pfUFA4/edit?usp=sharing)
+[OfficeHours]:https://docs.google.com/document/d/1OIFXoQ4ADIzyk1EZSZz6izD7A7Cngxu4CnUVcYzOQ6Q/edit?usp=sharing
+
 <!-- [Jump to the current week](#week-9-modeling-in-practice){: .btn } [Lab Solutions](https://edstem.org/us/courses/51951/discussion/4183397){: .btn .btn-green } -->
 
 [Lecture Recordings][Lecture-Recordings]{: .btn }
 [Welcome Survey][welcome-survey]{: .btn }
 [Extension Request Form][extension-request-form]{: .btn }
 [Exam Accommodations Form][exam-accommodations]{: .btn }
+[Office Hours][OfficeHours]{: .btn }
 
 
 <!-- [Exam Accommodations Form][exam-accommodations]{: .btn }
