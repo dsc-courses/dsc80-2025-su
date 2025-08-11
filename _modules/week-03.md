@@ -27,9 +27,9 @@ days:
     reading: ''
 - date: '2025-08-12'
   events:
-  - name: Discussion 2
+  - name: Discussion 2 (Tuesday 1:30 - 3:30)
     type: Discussion
     url: https://smu.zoom.us/j/4215216797
-    title: Zoom: Deeper Look at Hypothesis Testing 1:30pm-3:30 PST
+    title: Zoom: Deeper Look at Hypothesis Testing
     reading: ''
 ---
