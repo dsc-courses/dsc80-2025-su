@@ -240,7 +240,7 @@ schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Monday | Tuesday                                           | Wednesday | Thursday | Friday                                        |
+| Monday | Tuesday                                           | Wednesday | Thursday | Saturday                                        |
 | ------ | ------------------------------------------------- | --------- | -------- | --------------------------------------------- |
 | Lecture       |                                        | Lecture          |   |                                               |
 |        |<span style='color:red'><b>Lab due</b></span> |          |  <span style='color:red'><b>Lab due</b></span>        |  <span style='color:red'><b>Project due</b></span> |
