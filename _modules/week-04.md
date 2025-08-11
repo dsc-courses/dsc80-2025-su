@@ -33,12 +33,3 @@ days:
     reading: ''
 ---
 
-
-#- date: '2025-04-25'
-#  events:
-#  - name: PROJ 2
-#    type: proj
-#  title: Project 2 checkpoint
-#    url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/projects/project02
-#    reading: ''
-
