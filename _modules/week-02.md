@@ -25,11 +25,4 @@ days:
     title: Python, NumPy, and Pandas
     url: https://github.com/dsc-courses/dsc80-2025-su/tree/main/labs/lab01
     reading: ''
-- date: '2025-08-09'
-  events:
-  - name: PROJ 1
-    type: proj
-    title: Project 1 checkpoint
-    url: https://github.com/dsc-courses/dsc80-2025-su/tree/main/projects/proj01
-    reading: ''
 ---
