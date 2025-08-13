@@ -25,7 +25,7 @@ days:
     # url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab02
     title: More Pandas - Extended Deadline
     reading: ''
-- date: '2025-08-12'
+- date: 'TBD'
   events:
   - name: Discussion 2
     type: Discussion
