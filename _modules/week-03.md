@@ -30,6 +30,6 @@ days:
   - name: Discussion 2
     type: Discussion
     url: https://smu.zoom.us/j/4215216797
-    title: Zoom: Deeper Look at Hypothesis Testing
+    title: Zoom - Deeper Look at Hypothesis Testing
     reading: ''
 ---
