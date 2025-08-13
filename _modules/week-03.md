@@ -18,4 +18,11 @@ days:
     blank: resources/lectures/lec06/lec06-live.html
     #filled: resources/lectures/lec06/lec06.html
     reading: '[Ch. 17](https://learningds.org/ch/17/inf_pred_gen_intro.html)'
+- date: '2025-08-13'
+  events:
+  - name: LAB 2
+    type: lab
+    # url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab02
+    title: More Pandas - Extended Deadline
+    reading: ''
 ---
