@@ -25,4 +25,11 @@ days:
     # url: https://github.com/dsc-courses/dsc80-2025-wi/tree/main/labs/lab02
     title: More Pandas - Extended Deadline
     reading: ''
+- date: '2025-08-12'
+  events:
+  - name: Discussion 2
+    type: Discussion
+    url: https://smu.zoom.us/j/4215216797
+    title: Zoom: Deeper Look at Hypothesis Testing
+    reading: ''
 ---
