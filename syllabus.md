@@ -283,8 +283,8 @@ Here is how we'll compute your grade:
 | Component           | Weight | Notes                                                                      |
 | ------------------- | ------ | -------------------------------------------------------------------------- |
 | Labs                | 20%    | 2.5% per lab, lowest dropped                                               |
-| Projects            | 25%    | 8.3% each for Projects 1-3                                                   |
-| Midterm Exam        | 20%    | see the Redemption Policy above   Week 3.1                                 |
+| Projects            | 25%    | 8.3% each for Projects 1-3                                                 |
+| Midterm Exam        | 20%    | Week 3.2: Wednesday, August 20 ... Note:see the Redemption Policy above.                                  |
 | Final Exam          | 30%    | Friday September 5th 11:30 - 2:30                                          |
 | Lecture Attendance  | 0%     | If opted in, counts as 5% and reduces Midterm and Final Exam by 2.5% each. |
 
