@@ -34,7 +34,7 @@ days:
   events:
   - name: PROJ 2
     type: proj
-    # url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/projects/project02
+    url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/projects/project02
     title: Project 2
     reading: ''
 ---
