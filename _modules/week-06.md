@@ -20,17 +20,17 @@ days:
   events:
   - name: LEC 10
     type: lecture
-    title: Regular Expressions
-    filled: resources/lectures/lec11/lec11.html
+    title: Web Scraping
+    filled: resources/lectures/lec10/lec10.html
     #reading: '[Ch. 13](https://learningds.org/ch/13/text_intro.html)'
 - date: '2025-08-21'
   events:
   - name: LAB 6
     type: lab
-    # url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/labs/lab05
+    url: https://github.com/dsc-courses/dsc80-2025-sp/tree/main/labs/lab06
     title: Text
     reading: ''
-- date: '2025-05-09'
+- date: '2025-08-23'
   events:
   - name: PROJ 2
     type: proj
