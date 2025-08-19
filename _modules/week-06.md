@@ -15,7 +15,7 @@ days:
   - name: EXAM
     type: exam
     title: Midterm Exam
-    # reading: '[info sheet](assets/exam/midterm_info.pdf)'
+    reading: '[Winter 2025 Study Deck](https://github.com/dsc-courses/dsc80-2025-su/blob/gh-pages/labs/midterm-review-filled.pdf)'
 - date: '2025-05-08'
   events:
   - name: LEC 10
