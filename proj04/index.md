@@ -1,9 +1,12 @@
 ---
+title: "\U0001F4CA Final Project"
 layout: page
-title: "📊 Final Project"
 description: Description of Final Project.
-nav_exclude: false
+output:
+  html_document:
+    df_print: paged
 nav_order: 7
+nav_exclude: false
 ---
 
 <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
@@ -25,13 +28,20 @@ Welcome to Final Project, the final assignment of the quarter! 👋
 
 This project aims to be a culmination of everything you've learned this quarter. In the project, you will conduct an open-ended investigation into one of the three datasets (Recipes and Ratings 🍽, League of Legends ⌨️, or Power Outages 🔋). **Specifically, you'll draw several visualizations to help understand the distributions of key variables, assess the missingness mechanisms of columns with missing values, test a hypotheses about the data, and finally, build and improve a predictive model.** This project will be entirely manually graded by us – that's right, no autograders!
 
-Final Project worth 10% in your overall grade, which means it's worth double what previous projects were worth. There are also two checkpoints, each worth 1%. 
+Final Project is **optional**. However, if you complete it, you have the **option for having it count as 50% of your final exam**. For example, if you scored an 80% on your final and a 90% on project 4, then you would have an 85% on the final.  Alternatively, it cannot count against you.  If you scored an 80% on the final but a 70% on project 4, then you would still score an 80% on the final exam. 
+
+Also, this project also serves as:
+
+- A.	… opportunity to see the big picture and polish your DS skills.
+- B.	… topic to discuss in an interview.
+- C.	… way to study for the final exam.
+
+
 
 As your final deliverables, you'll submit two things to us: a **public-facing website** as well as a **PDF of your Jupyter Notebook**. We encourage you to build something you are proud of as this will give you something concrete to put on your resume and show to potential employers!
 
 {: .green }
-> **Final Project is due on Friday, June 6th at 11:59PM. This is a hard deadline; you may NOT use the extension on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. <br><br>
-> The Final Project does also have two checkpoints, which is due on **Friday, May 23rd** and **Friday, May 30th**. The Final Project Checkpoints are structured differently than other project checkpoints; rather than having you submit any code, you'll answer a few questions about your progress on the project. More details are in the [Checkpoint Submission](#submission-and-rubric) towards the bottom of this page. You can submit the [checkpoint 1](https://www.gradescope.com/courses/941090/assignments/5820453/) and [checkpoint 2](https://www.gradescope.com/courses/941090/assignments/5820459/) on Gradescope; make sure to tag your partner if you have one.
+> **Final Project is due on Sunday, September 6th at 11:59PM. This is a hard deadline with no extensions.** This is because we need to start grading projects right when you turn them in. <br><br>
 
 The project is broken into two parts:
 
