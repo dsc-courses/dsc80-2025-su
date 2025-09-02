@@ -6,9 +6,9 @@ days:
   events:
   - name: LEC 15
     type: lecture
-    title: Hyperparameters, Cross-Validation, and Decision Trees
+    title: Pipelines, Multicollinearity, and Generalization
     filled: resources/lectures/lec15/lec15.html
-    reading: '[Ch. 16](https://learningds.org/ch/16/ms_intro.html)'
+    reading: '[Ch. 16](https://learningds.org/ch/16/ms_train_test.html), [17.6](https://learningds.org/ch/17/inf_pred_gen_prob.html)'
 - date: '2025-09-2'
   events:
   - name: LEC 16
