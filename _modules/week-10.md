@@ -27,7 +27,7 @@ days:
   events:
   - name: FINAL Exam
     type: Exam
-    title: Final Exam
+    title: Final Exam 1130am to 230pm WLH 2111
     reading: ''
 - date: '2025-09-6'
   events:
