@@ -1,6 +1,6 @@
 ---
-title: "Week 8 \u2013 Feature Engineering"
-weekNumber: 8
+title: "Week 4.2 \u2013 Feature Engineering"
+weekNumber: 4.2
 days:
 - date: '2025-08-27'
   events:
@@ -9,12 +9,6 @@ days:
     title: Feature Engineering
     filled: resources/lectures/lec13/lec13.html
     reading: '[Ch. 15.0-15.6](https://learningds.org/ch/15/linear_intro.html)'
-- date: '2025-08-28'
-  events:
-  - name: LAB 8
-    type: lab
-    title: Regular Expressions and Text Data
-    reading: ''
 - date: '2025-08-27'
   events:
   - name: LEC 14
